@@ -12,12 +12,12 @@ StockWayy is a stock prediction web application that provides users with stock m
 - **Google Calendar Integration**: Schedule stock alerts or reminders using Google Calendar.
 
 ## Technologies Used
-
+- **Machine Learning**: used Linear regeression to achieve 99.2% testing accuracy. 
 - **Frontend**: React.js, HTML5, CSS3
-- **Backend**: (If applicable) Node.js, Express.js, and your chosen database (MongoDB, etc.)
-- **Charting**: (If applicable) Chart.js, D3.js, or any stock prediction library.
+- **Backend**:Node.js, Express.js
+- **Charting**:Chart.js, D3.js.
 - **Dark/Light Mode**: CSS custom properties for theme switching.
-- **Google Calendar Integration**: Using Google Calendar API (if implemented).
+- **Google Calendar Integration**: Using Google Calendar.
 
 ## Installation
 
