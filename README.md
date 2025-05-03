@@ -1,48 +1,57 @@
-# StockWayy - Stock Predictor Dashboard
+![Stockwayy Logo](image.png)
+# 📈 StockWayy – Stock Predictor Dashboard
 
-StockWayy is a stock prediction web application that provides users with stock market predictions, insights, and useful recommendations. It allows users to analyze stock performance, make informed decisions, and track market volatility.
+StockWayy is a smart stock prediction web application that empowers users to analyze trends, view visual insights, and make data-driven investment decisions. It features ML-powered forecasts, sleek design, and useful integrations to enhance your market strategy.
 
-## Features
+---
 
-- **Stock Price Prediction**: Get predicted stock prices based on historical data and algorithms.
-- **Dark Mode/Light Mode**: Toggle between dark and light themes for a comfortable user experience.
-- **Chart Visualizations**: View stock trends with interactive charts.
-- **Volatility & Trend Analysis**: View stock volatility and trend indicators.
-- **Recommendations**: Get stock recommendations based on predictions and analysis.
-- **Google Calendar Integration**: Schedule stock alerts or reminders using Google Calendar.
+## 🚀 Features
 
-## Technologies Used
-- **Machine Learning**: used Linear regeression to achieve 99.2% testing accuracy. 
-- **Frontend**: React.js, HTML5, CSS3
-- **Backend**:Node.js, Express.js
-- **Charting**:Chart.js, D3.js.
-- **Dark/Light Mode**: CSS custom properties for theme switching.
-- **Google Calendar Integration**: Using Google Calendar.
+- 🔮 **Stock Price Prediction:** Get predicted stock prices based on historical data and algorithms.
+- 🌗 **Dark/Light Mode:** Toggle between dark and light themes for a comfortable user experience.
+- 📊 **Chart Visualizations:** View stock trends with interactive charts.
+- 📈 **Volatility & Trend Analysis:** View stock volatility and trend indicators.
+- 💡 **AI-based Recommendations:** Get stock recommendations based on predictions and analysis.
+- 📅 **Google Calendar Integration:** Schedule stock alerts or reminders using Google Calendar.
 
-## Installation
+---
 
-To run StockWayy locally, follow these steps:
+## 🛠️ Tech Stack
 
-### Prerequisites
+| Layer        | Technologies                      |
+|-------------|-----------------------------------|
+| **ML Model** | Used Linear Regression to achieve 99.2% testing accuracy.         |
+| **Frontend** | React.js, HTML5, CSS3              |
+| **Backend**  | Node.js, Express.js                |
+| **Charts**   | Chart.js, D3.js                    |
+| **Other**    | Google Calendar API, Theme Toggle |
 
-Ensure you have the following installed:
+---
 
-- [Node.js](https://nodejs.org/) (version 14 or above)
+## 📸 Screenshots
+
+![Stockwayy App](assets/screenshot1.jpg)
+![Stock Prediction](assets/screenshot2.jpg)
+
+---
+
+## 🧪 Installation
+
+### 📋 Prerequisites
+
+- [Node.js](https://nodejs.org/) (v14+)
 - [Git](https://git-scm.com/)
 
-### Steps
+### 🧰 Setup
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/kushfs/stockwayy.git
-Navigate to the project directory:
-
+```bash
+# Clone the repo
+git clone https://github.com/kushfs/stockwayy.git
 cd stockwayy
-Install dependencies:
 
+# Install dependencies
 npm install
-Start the development server:
 
+# Start the app
 npm start
-Open your browser and go to http://localhost:3000 to see the app in action.
+
