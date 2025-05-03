@@ -30,8 +30,8 @@ StockWayy is a smart stock prediction web application that empowers users to ana
 
 ## 📸 Screenshots
 
-![Stockwayy App](assets/screenshot1.jpg)
-![Stock Prediction](assets/screenshot2.jpg)
+![Stockwayy App](assets/screenshot1.jpeg)
+![Stock Prediction](assets/screenshot2.jpeg)
 
 ---
 
